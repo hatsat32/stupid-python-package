@@ -1,0 +1,16 @@
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# venv
+.venv/
+venv/
+
+# packaging
+.Python
+dist/
+build/
+
+# temp
+temp/
